@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586212586871.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "72|49|156|0|\n",
+    "hash" : "1804962147",
+    "id" : "76CD426D",
+    "lastKnownWriteTime" : 1586315463,
+    "last_content_update" : 1586315463057,
+    "path" : "~/Dropbox/CSIRO/ckmr/ciffs/intra_cohort_implications/marks_reverse_design.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "227,37",
+        "scrollLine" : "224",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

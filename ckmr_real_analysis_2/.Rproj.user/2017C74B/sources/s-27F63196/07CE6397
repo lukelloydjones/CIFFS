@@ -1,0 +1,25 @@
+{
+    "id": "07CE6397",
+    "path": "~/Dropbox/CSIRO/ckmr/ciffs/analysis_round_2/ckmr_real_analysis_2/functions/plot_abund_cv.R",
+    "project_path": "functions/plot_abund_cv.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1639713653756.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "cursorPosition": "77,0",
+        "scrollLine": "36",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639715132,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639715132660,
+    "read_only": false,
+    "read_only_alternatives": []
+}

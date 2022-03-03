@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575868565088.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1006798740",
+    "id" : "BC5B4A25",
+    "lastKnownWriteTime" : 1575874494,
+    "last_content_update" : 1575874494611,
+    "path" : "C:/Users/PET247/Dropbox/smp_summer_isabel_peters/ckmr_simulator_2.0/functions/prep_comb_kin.R",
+    "project_path" : "functions/prep_comb_kin.R",
+    "properties" : {
+        "cursorPosition" : "33,12",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

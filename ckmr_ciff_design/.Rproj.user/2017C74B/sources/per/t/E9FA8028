@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586298740850.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "13|32|23|0|\n24|35|31|0|\n53|1|175|0|\n",
+    "hash" : "2738346664",
+    "id" : "E9FA8028",
+    "lastKnownWriteTime" : 1590549080,
+    "last_content_update" : 1590549080670,
+    "path" : "~/Dropbox/CSIRO/ckmr/ciffs/ckmr_ciff_design/ciff_design_just_females.R",
+    "project_path" : "ciff_design_just_females.R",
+    "properties" : {
+        "cursorPosition" : "297,12",
+        "scrollLine" : "295",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

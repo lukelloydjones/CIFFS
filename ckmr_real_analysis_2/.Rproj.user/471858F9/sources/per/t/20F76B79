@@ -1,0 +1,26 @@
+{
+    "id": "20F76B79",
+    "path": "~/Dropbox/CSIRO/ckmr/ciffs/analysis_round_2/ckmr_real_analysis_2/aux_r_scripts/new_mtdna_llgk_devel.R",
+    "project_path": "aux_r_scripts/new_mtdna_llgk_devel.R",
+    "type": "r_source",
+    "hash": "3127084886",
+    "contents": "",
+    "dirty": false,
+    "created": 1641364009915.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "222,7",
+        "scrollLine": "215"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1642400581,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1642400581220,
+    "read_only": false,
+    "read_only_alternatives": []
+}

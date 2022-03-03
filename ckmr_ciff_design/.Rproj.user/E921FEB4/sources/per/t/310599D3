@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579744944254.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "44|1|155|0|\n",
+    "hash" : "2629375436",
+    "id" : "310599D3",
+    "lastKnownWriteTime" : 1580451668,
+    "last_content_update" : 1580451668938,
+    "path" : "C:/Users/PET247/Dropbox/smp_summer_isabel_peters/ckmr_ciff_design/ckmr_design_main_var_props.R",
+    "project_path" : "ckmr_design_main_var_props.R",
+    "properties" : {
+        "cursorPosition" : "203,0",
+        "scrollLine" : "180"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586142572330.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1547449705",
+    "id" : "88BA2918",
+    "lastKnownWriteTime" : 1586142723,
+    "last_content_update" : 1586143514114,
+    "path" : "~/Dropbox/CSIRO/summer_scholarship/smp_summer_isabel_peters/ckmr_simulator_2.0/functions/prep_comb_kin_2.R",
+    "project_path" : "functions/prep_comb_kin_2.R",
+    "properties" : {
+        "cursorPosition" : "105,12",
+        "scrollLine" : "104"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
