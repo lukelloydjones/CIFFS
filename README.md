@@ -1,4 +1,5 @@
-# CIFFS
+# Close-kin mark-recapture for Christmas Island flying-fox (CIFFS)
+
 Code to perform close-kin mark-recapture for demography estimation of Christmas Island Flying-Fox (CIFFS).
 
 
